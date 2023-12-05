@@ -1,1 +1,1 @@
-This repository contains code progress from one of the Udemy COurse of TypeScript
+This repository contains code progress from one of the Udemy Course of TypeScript
